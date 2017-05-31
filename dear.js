@@ -6,4 +6,16 @@ function startdear(type) {
   if(type == "select") {
     document.write("<select>"+select+"</select>");
 }
+  if(type == "alert") {
+    document.write("<div id='dearjs-alert' background-color: #C4CFCE;><h1>"+alert+"</h1></div>")
+}
+  if(type == "button") {
+    document.write("<button>"+button+"</button>");
+}
+ if(type == "line") {
+   document.write("<hr>");
+}
+ if(type == "style") {
+   document.write("<style>"+style+"</style>");
+}
 }
