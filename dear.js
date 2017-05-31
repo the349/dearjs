@@ -1,4 +1,4 @@
-dcoument.write("<p>powered by dearjs</p><img src="image.png">");
+dcoument.write("<p>powered by dearjs</p><img src='image.png'>");
 function startdear(type) {
   if(type == "prompt") {
     document.write("<div id='dearjs-prompt-div' style='background-color: #C4CFCE; width: 60%; postiton: absolute; left: 0px;'>"+prompt+"</div>");
