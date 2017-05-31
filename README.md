@@ -1,3 +1,7 @@
 # dearjs
 dearjs is a JavaScript framework
-<p>le</p>
+<style>
+  * {
+    font-family: arial;
+  }
+</style>
