@@ -1,3 +1,3 @@
 # dearjs
-<img src="ttt.png">
+<img src="image.png">
 dearjs is a JavaScript framework
