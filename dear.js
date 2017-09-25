@@ -20,3 +20,4 @@ function startdear(type) {
    document.write("<style>"+style+"</style>");
 }
 }
+var dearele = document.querySelector("dearele")
